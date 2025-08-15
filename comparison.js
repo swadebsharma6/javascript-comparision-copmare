@@ -14,3 +14,9 @@ console.log(5 >= 10)   // false
 
 console.log(5 <= 10) // true
 console.log(10 <= 10)  // true
+
+// Simple MathTerm
+var guavaPrice = 50;
+var applePrice = 100;
+
+console.log(guavaPrice < applePrice);
