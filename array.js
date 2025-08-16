@@ -14,8 +14,11 @@ numbers[3] = 420;
 // Find out the 3rd index value
 const thirdItem = numbers[3];
 
+// console.log(thirdItem);
+// console.log(numbers)
 
 
 
-console.log(thirdItem);
-console.log(numbers)
+
+
+
